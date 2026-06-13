@@ -1,4 +1,12 @@
 # Smart Water Filter System
+![Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
+![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
+![ESP8266](https://img.shields.io/badge/hardware-ESP8266-green)
+![Firebase](https://img.shields.io/badge/cloud-Firebase-orange)
+![Flutter](https://img.shields.io/badge/mobile-Flutter-blue)
+![IoT](https://img.shields.io/badge/domain-IoT-purple)
+![Future AI Module](https://img.shields.io/badge/AI-future%20module-lightblue)
+![MIT License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 An IoT-enabled laboratory prototype for TDS-based adaptive routing in household RO+UF+UV water purifiers.
 
